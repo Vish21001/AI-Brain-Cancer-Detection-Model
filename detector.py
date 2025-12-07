@@ -1,3 +1,9 @@
+# results:
+# training accuracy = 94%
+# validation accuracy = 93%
+#1 second per 1/179 of 30 epochs
+# lowest loss percent = 18%
+
 import tensorflow as tf
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from tensorflow.keras.applications import MobileNetV2
